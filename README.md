@@ -1,0 +1,26 @@
+-   [x] WAP to search an element using Linear Search.
+-   [x] WAP to search an element using Binary Search.
+-   [x] WAP to sort the given array unsing Bubble Sort.
+-   [x] WAP to sort the given array using Selection Sort.
+-   [x] WAP to sort the given array using Insertion Sort.
+-   [x] WAP to sort the given array using QuickSort.
+-   [x] WAP to sort the given array using MergeSort.
+-   [x] WAP to insert a new element in the given unsorted array at kth position.
+-   [x] WAP to delete an element from given sorted array.
+-   [x] WAP to merge to given sorted arrays.
+-   [x] WAP to implement Stack using array, also show overflow and underflow in respective push and pop operations.
+-   [x] WAP to implement Queue using array, which shows insertion and deletion operations.
+-   [x] WAP to implement Circular Queue using array, which shows insertion and deletion operations.
+-   [x] WAP to implement Linear Linked List, showing all the operations, like creation, display, insertion, deletion and searching.
+-   [x] WAP to implement Stack, using Linked List. Implement Push, Pop and display operations.
+-   [x] WAP to implement Queue, using Linked List. Implement Insertion, deletion and display operations.
+-   [x] WAP to count the number of times an item is present in a linked list.
+-   [x] WAP to increment the data part of every node present in a linked list by 10. Display the data both before incrimination and after.
+-   [x] WAP to implement Doubly Linked List, showing all the operations, like creation, display, insertion, deletion and searching.
+-   [x] WAP to create a Binary Search Tree and display its contents using recursive preorder, postorder and inorder traversal.
+-   [x] WAP to implement deletion of a node in binary search tree.
+-   [x] WAP to implement Binary tree and display the contents using non-recursive preorder, postorder and inorder traversal techniques.
+-   [x] WAP to sort the given array using HeapSort.
+-   [x] WAP of Graph traversal-Depth first search and Breadth first search.-
+-   [x] WAP to implement Prim’s algorithm-
+-   [x] WAP to implement Kruskal algorithm.
