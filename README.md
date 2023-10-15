@@ -15,7 +15,8 @@
 -   [x] WAP to implement Stack, using Linked List. Implement Push, Pop and display operations.
 -   [x] WAP to implement Queue, using Linked List. Implement Insertion, deletion and display operations.
 -   [x] WAP to count the number of times an item is present in a linked list.
--   [x] WAP to increment the data part of every node present in a linked list by 10. Display the data both before incrimination and after.
+-   [x] WAP to increment the data part of every node present in a linked list by
+-   [x] Display the data both before incrimination and after.
 -   [x] WAP to implement Doubly Linked List, showing all the operations, like creation, display, insertion, deletion and searching.
 -   [x] WAP to create a Binary Search Tree and display its contents using recursive preorder, postorder and inorder traversal.
 -   [x] WAP to implement deletion of a node in binary search tree.
